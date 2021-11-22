@@ -1,0 +1,3 @@
+[submodule "lib/ORB_SLAM3"]
+	path = lib/ORB_SLAM3
+	url = git@github.com:UZ-SLAMLab/ORB_SLAM3.git
